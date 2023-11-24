@@ -254,6 +254,16 @@ html, body {
     text-align: center;
 }
 
+.avatar-img {
+    width: 400px;
+    margin-bottom: 30px;
+}
+
+.description {
+    display: flex;
+    line-height: 150%;
+}
+
 .projects {
     display: flex;
     flex-wrap: wrap;
